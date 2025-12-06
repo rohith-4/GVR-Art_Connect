@@ -1,0 +1,9 @@
+.custom-padding {
+  padding: 2.5rem; /* Equivalent to Tailwind's p-10 */
+}
+.custom-padding2 {
+  padding: 0.525rem; /* 40px, same as Tailwind's p-10 */
+}
+.mb-4{
+    margin-bottom: 1rem; /* Equivalent to Tailwind's mb-4 */
+}
